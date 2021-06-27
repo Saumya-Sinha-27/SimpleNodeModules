@@ -1,0 +1,19 @@
+{
+  "name": "simple_node_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saumya-Sinha-27/SimpleNodeModules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saumya-Sinha-27/SimpleNodeModules/issues"
+  },
+  "homepage": "https://github.com/Saumya-Sinha-27/SimpleNodeModules#readme"
+}
